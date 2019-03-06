@@ -1,4 +1,4 @@
-# [Botkit](https://botkit.ai) - Building Blocks for Building Bots
+# [Botkit](https://botkit.ai) - Building Blocks for Building Bots V0.7.4 (PIKA)
 
 [![npm](https://img.shields.io/npm/v/botkit.svg)](https://www.npmjs.com/package/botkit)
 [![David](https://img.shields.io/david/howdyai/botkit.svg)](https://david-dm.org/howdyai/botkit)
