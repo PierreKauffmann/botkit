@@ -178,41 +178,9 @@ var platforms = [{
         directory: 'botkit-starter-web'
     },
     {
-        platform: 'teams',
-        artifact: 'https://github.com/howdyai/botkit-starter-teams.git',
-        directory: 'botkit-starter-teams'
-    },
-    {
-        platform: 'spark',
-        artifact: 'https://github.com/howdyai/botkit-starter-ciscospark.git',
-        directory: 'botkit-starter-ciscospark',
-        display: false,
-    },
-    {
-        platform: 'webex',
-        artifact: 'https://github.com/howdyai/botkit-starter-ciscospark.git',
-        directory: 'botkit-starter-ciscospark'
-    },
-    {
-        platform: 'ciscospark',
-        artifact: 'https://github.com/howdyai/botkit-starter-ciscospark.git',
-        display: false,
-        directory: 'botkit-starter-ciscospark'
-    },
-    {
-        platform: 'slack',
-        artifact: 'https://github.com/howdyai/botkit-starter-slack.git',
-        directory: 'botkit-starter-slack'
-    },
-    {
         platform: 'facebook',
         artifact: 'https://github.com/howdyai/botkit-starter-facebook.git',
         directory: 'botkit-starter-facebook'
-    },
-    {
-        platform: 'googlehangouts',
-        artifact: 'git@github.com:howdyai/botkit-starter-googlehangouts.git',
-        directory: 'botkit-starter-googlehangouts'
     }
 ];
 
